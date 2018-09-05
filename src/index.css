@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
